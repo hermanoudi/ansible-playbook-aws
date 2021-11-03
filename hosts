@@ -1,0 +1,10 @@
+[manager]
+54.89.147.201
+
+[worker]
+3.82.211.201
+54.210.251.63
+
+[all:vars]
+ansible_ssh_private_key_file=/home/hermano/projetos/ansible.pem
+ansible_user=ubuntu
